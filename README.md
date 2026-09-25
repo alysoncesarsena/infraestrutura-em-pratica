@@ -19,4 +19,4 @@ Notas técnicas sobre administração de sistemas, redes e continuidade operacio
 
 ## Autoria e uso
 
-Conteúdo preparado por Alyson César Sena para revisão antes de qualquer publicação. Nenhuma licença de código aberto foi definida; a visibilidade pública de um repositório, se aprovada futuramente, não implica permissão automática para reutilizar o conteúdo.
+Conteúdo de Alyson César Sena. Nenhuma licença de código aberto foi definida; a visibilidade pública deste repositório não implica permissão automática para reutilizar o conteúdo.
