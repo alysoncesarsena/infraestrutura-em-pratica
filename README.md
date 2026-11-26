@@ -4,11 +4,20 @@ Notas técnicas sobre administração de sistemas, redes e continuidade operacio
 
 ## Guias
 
-| Tema | O que você encontrará |
-| --- | --- |
-| [AD DS e identidades centralizadas](guias/ad-ds-identidades.md) | Função do controlador de domínio, OUs, grupos, GPOs e separação entre autenticação e autorização. |
-| [Diagnóstico inicial de DNS e conectividade](guias/diagnostico-dns-conectividade.md) | Uma sequência de investigação para evitar conclusões precipitadas. |
-| [Planejamento de restauração](guias/planejamento-restauracao.md) | Perguntas e critérios de validação para um exercício de recuperação em laboratório. |
+### Redes e identidades
+
+- [VLAN na prática](guias/vlan-access-trunk.md). Diagnosticar a perda de acesso ao gateway em um caminho com portas de acesso e trunk 802.1Q.
+- [Diagnóstico inicial de DNS e conectividade](guias/diagnostico-dns-conectividade.md). Distinguir resolução de nomes e falhas de conectividade.
+- [AD DS e identidades centralizadas](guias/ad-ds-identidades.md). Entender controladores de domínio, OUs, grupos e GPOs.
+
+### Servidores e virtualização
+
+- [Triagem de serviços no Windows Server](guias/windows-server-triagem-servicos.md). Registrar estado, dependências e eventos antes de intervir.
+- [Capacidade para uma nova VM no Proxmox VE](guias/proxmox-capacidade-vm.md). Avaliar CPU, memória e armazenamento com um exercício de dimensionamento.
+
+### Continuidade
+
+- [Planejamento de restauração](guias/planejamento-restauracao.md). Definir o que recuperar e como validar o resultado em laboratório.
 
 ## Escopo
 
